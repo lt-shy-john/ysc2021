@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "Early Career & Student Statisticians Conference 2021"
+theme = "devfest-theme-hugo"
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+[params.logos]
+    header = "/images/logos/devfest_color_text.png"
+    footer = "/images/logos/devfest_gray_text.png"
+
+[menu]
+[[menu.main]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://jobs.devfesttoulouse.fr/"
+    weight = 200
+    external = true
+[[menu.main]]
+    identifier = "fb"
+    name = "Facebook"
+    url = "https://jobs.devfesttoulouse.fr/"
+    weight = 200
+    external = true

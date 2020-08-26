@@ -1,0 +1,21 @@
+content:
+  - title: footer_about
+    links:
+      - name: SSA
+        url: https://www.statsoc.org.au/
+        newTab: true
+      - nameKey: footer_coc
+        url: /code-of-conduct/
+        newTab: false
+
+  - title: footer_previous_edition
+    links:
+      - name: YSC2019
+        url: https://ysc2019.netlify.app/
+        newTab: true
+      - name: YSC2017
+        url: http://ysc2017.com.au/
+        newTab: true
+      - name: YSC2015
+        url: https://ysc2015.wordpress.com/
+        newTab: true
